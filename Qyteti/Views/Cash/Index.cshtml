@@ -1,0 +1,32 @@
+﻿@model Qyteti.Models.CashModel
+
+@{
+    ViewBag.Title = "Cash Breakdown";
+}
+
+<h2>Cash Breakdown Calculator</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.Amount)
+        @Html.TextBoxFor(m => m.Amount)
+        @Html.ValidationMessageFor(m => m.Amount)
+    </div>
+    <button type="submit">Calculate</button>
+}
+
+@if (Model.Breakdown != null && Model.Breakdown.Count > 0)
+{
+    <h3>Breakdown:</h3>
+    <ul>
+        @foreach (var item in Model.Breakdown)
+        {
+            <li>@item.Value x @item.Key</li>
+        }
+    </ul>
+}
+                                                                        
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

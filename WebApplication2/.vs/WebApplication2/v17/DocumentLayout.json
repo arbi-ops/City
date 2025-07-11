@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\webapplication2\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\models\\webapplication2musicstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:models\\webapplication2musicstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\controllers\\storemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:controllers\\storemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\models\\musicstoredbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:models\\musicstoredbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\views\\storemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:views\\storemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D01F148-3788-4E31-9005-5715597A43A5}|WebApplication2.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\PurchaseOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PurchaseOrderController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\PurchaseOrderController.cs",
+              "RelativeToolTip": "Controllers\\PurchaseOrderController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:21:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "Models\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "Models\\PurchaseOrder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:15:06.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AgIAABwAAAAAAAAAAAAnwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-02T14:35:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:07:07.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:07:07.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:36:39.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:31:20.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication2MusicStoreDB.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\WebApplication2MusicStoreDB.cs",
+              "RelativeDocumentMoniker": "Models\\WebApplication2MusicStoreDB.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\WebApplication2MusicStoreDB.cs",
+              "RelativeToolTip": "Models\\WebApplication2MusicStoreDB.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:54:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Controllers\\ManageController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:07:07.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\StoreManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreManagerController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Controllers\\StoreManagerController.cs",
+              "RelativeToolTip": "Controllers\\StoreManagerController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:02:48.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:31:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:31:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:34:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusicStoreDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\MusicStoreDBInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\MusicStoreDBInitializer.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\MusicStoreDBInitializer.cs",
+              "RelativeToolTip": "Models\\MusicStoreDBInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T11:28:26.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Views\\StoreManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\StoreManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Views\\StoreManager\\Index.cshtml",
+              "RelativeToolTip": "Views\\StoreManager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T11:00:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:35:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\WebApplication2\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:29:13.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\models\\cashmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:models\\cashmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\controllers\\retirementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:controllers\\retirementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\qyteti\\controllers\\qytetetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:controllers\\qytetetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\views\\qytetet\\tivarhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:views\\qytetet\\tivarhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\views\\retirement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:views\\retirement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\views\\cash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:views\\cash\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\views\\qytetet\\ulqinhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:views\\qytetet\\ulqinhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A710688E-C61C-4A0F-8DF0-403F8DC6DE51}|Qyteti.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835C7DE8-0E57-4068-8F51-AEFE445EED4D}|..\\Qyteti.Tests\\Qyteti.Tests.csproj|c:\\users\\arbip\\onedrive\\desktop\\c#\\.vs\\c#\\v17\\qyteti.tests\\controllers\\homecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashModel.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Models\\CashModel.cs",
+              "RelativeDocumentMoniker": "Models\\CashModel.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Models\\CashModel.cs",
+              "RelativeToolTip": "Models\\CashModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:19:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Retirement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Retirement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Retirement\\Index.cshtml",
+              "RelativeToolTip": "Views\\Retirement\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T09:25:14.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RetirementController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\RetirementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RetirementController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\RetirementController.cs",
+              "RelativeToolTip": "Controllers\\RetirementController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:23:43.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Models\\PersonModel.cs",
+              "RelativeToolTip": "Models\\PersonModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:22:06.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QytetetController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\QytetetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QytetetController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\QytetetController.cs",
+              "RelativeToolTip": "Controllers\\QytetetController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:15:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TivarHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Qytetet\\TivarHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Qytetet\\TivarHistory.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Qytetet\\TivarHistory.cshtml",
+              "RelativeToolTip": "Views\\Qytetet\\TivarHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T07:42:56.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\CashController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CashController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\CashController.cs",
+              "RelativeToolTip": "Controllers\\CashController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:20:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T09:26:24.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Controllers\\ManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:17:41.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Cash\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cash\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Cash\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cash\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T11:24:31.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:04:02.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T09:27:26.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UlqinHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Qytetet\\UlqinHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Qytetet\\UlqinHistory.cshtml",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Views\\Qytetet\\UlqinHistory.cshtml",
+              "RelativeToolTip": "Views\\Qytetet\\UlqinHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T07:42:14.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:20:41.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:18:05.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti.Tests\\Controllers\\HomeControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\Qyteti.Tests\\Controllers\\HomeControllerTest.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti.Tests\\Controllers\\HomeControllerTest.cs",
+              "RelativeToolTip": "..\\Qyteti.Tests\\Controllers\\HomeControllerTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:05:41.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\arbip\\OneDrive\\Desktop\\C#\\.vs\\C#\\v17\\Qyteti\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:03:51.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
